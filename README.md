@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gamal-Aledrisi
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning JS language and Platform laravel  and  View JS and PHP and Node js 
+- 🌱 I’m currently learning JS language and Platform laravel  and  View JS and PHP and Node js and react js and vue js 
 - 💞️ I’m looking to collaborate on programming Web
 - 📫 How to reach me Number WhatsApp +967 770177866
 <!---
